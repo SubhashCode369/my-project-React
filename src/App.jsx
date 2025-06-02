@@ -5,8 +5,7 @@ import Login from './Components/auth/login'
 function App() {
     return (
         <div>
-    
-            Subhash vaishnavi
+           <h1>subhash vashnavi</h1>
         </div>
     )
 }
